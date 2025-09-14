@@ -1,8 +1,7 @@
 # SrgLib
 A python library for handling srg files and related stuff
 
-![build status](https://img.shields.io/travis/ProjectTestificate/SrgLib.svg)
-![powered by tacos](https://img.shields.io/badge/powered by-tacos-brightgreen.svg)
+![powered by tacos](https://img.shields.io/badge/powered_by-tacos-green)
 
 ## Features
 - Correctly Parses and Outputs srg files
@@ -16,3 +15,6 @@ A python library for handling srg files and related stuff
 - Compatible with python 3.5
   - This library requires the 'typing' module for type hinting
   - Any version before python 3.5 does not have type hinting and won't work
+ 
+## License
+This project licensed under [MIT license](LICENSE) and all credits goes to original creator: https://github.com/Techcable/SrgLib
